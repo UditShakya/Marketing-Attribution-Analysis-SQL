@@ -8,6 +8,7 @@ This project analyzes 10,000+ marketing touchpoints to determine the effectivene
 ## Technologies Used
 * **SQL Server (T-SQL):** Data transformation and Window Functions.
 * **Excel:** Data visualization and dashboarding.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/856d90ad-a7b0-4289-a2fd-3bafda7451c8" />
 
 ## Key Insights
 * **Display Ads** were identified as the primary 'Discovery' channel, initiating the most customer journeys.
@@ -17,3 +18,4 @@ This project analyzes 10,000+ marketing touchpoints to determine the effectivene
 ## How to Run the SQL
 1. Import `multi_touch_attribution_data.csv` into SQL Server.
 2. Execute the script found in `/SQL_Scripts/attribution_logic.sql`.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1d652ee-e080-4490-91af-ecce2afc9ebe" />
